@@ -1,1 +1,2 @@
 This is file1 with version 1
+File has been amended version2
